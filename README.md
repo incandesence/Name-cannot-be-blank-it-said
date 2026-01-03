@@ -1,9 +1,9 @@
 To run this assembly code , an assembly compiler is required.
 
 You can download NASM (Netwide Assembler) from:
-https://www.nasm.us/
+https://www.nasm.us
 
-After installing NASM, make sure it is added to your system PATH so it can be accessed from the command line.
+After installing NASM , make sure it is added to your system PATH so it can be accessed from the command line.
 
 The file `main.asm` contains the assembly source code.
 
